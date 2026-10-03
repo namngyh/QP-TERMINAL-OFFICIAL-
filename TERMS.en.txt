@@ -1,13 +1,13 @@
-﻿QP TERMINAL
+﻿QUANT PERCENT TERMINAL
 TERMS OF USE, NO-INVESTMENT-ADVICE STATEMENT AND DISCLAIMER
 
 Publisher: Quant Percent
 Website: https://quantpercent.com
-Terms version: 1.0, for QP Terminal 0.1.0
+Terms version: 1.0, for Quant Percent Terminal 0.1.0
 
 PLEASE READ THIS WHOLE DOCUMENT CAREFULLY BEFORE INSTALLING.
 
-By ticking "I accept the terms" and continuing the installation, or by using QP Terminal in any way, you confirm that you have read, understood and agree to be bound by all of the terms below. If you do not agree with any term, choose "Cancel", do not install and do not use the software.
+By ticking "I accept the terms" and continuing the installation, or by using Quant Percent Terminal in any way, you confirm that you have read, understood and agree to be bound by all of the terms below. If you do not agree with any term, choose "Cancel", do not install and do not use the software.
 
 
 ================================================================
@@ -18,9 +18,9 @@ ARTICLE 1. DEFINITIONS
 
 In this document:
 
-1.1. "Quant Percent", "we", "us": the developer and publisher of QP Terminal, whose details are published at https://quantpercent.com.
+1.1. "Quant Percent", "we", "us": the developer and publisher of Quant Percent Terminal, whose details are published at https://quantpercent.com.
 
-1.2. "QP Terminal", "the Software": the QP Terminal desktop application, including the installer, program files, interface, accompanying documentation, updates, fixes, example plugins and every component Quant Percent supplies with it.
+1.2. "Quant Percent Terminal", "the Software": the Quant Percent Terminal desktop application, including the installer, program files, interface, accompanying documentation, updates, fixes, example plugins and every component Quant Percent supplies with it.
 
 1.3. "You", "the User": the individual who installs or uses the Software.
 
@@ -36,7 +36,7 @@ In this document:
 
 ARTICLE 2. SCOPE AND EFFECT
 
-2.1. These Terms are a binding agreement between You and Quant Percent about installing and using QP Terminal.
+2.1. These Terms are a binding agreement between You and Quant Percent about installing and using Quant Percent Terminal.
 
 2.2. These Terms take effect when You accept them in the installer, or when You first use the Software, whichever comes first.
 
@@ -55,9 +55,9 @@ ARTICLE 3. ELIGIBILITY
 PART B. NO INVESTMENT ADVICE AND RISK WARNING
 ================================================================
 
-ARTICLE 4. QP TERMINAL IS NOT INVESTMENT ADVICE
+ARTICLE 4. QUANT PERCENT TERMINAL IS NOT INVESTMENT ADVICE
 
-4.1. QP Terminal is a quantitative research and analysis tool. It helps You draw charts, compute indicators, test strategies on historical data, simulate and run statistics. All Analysis Results are for information, education and research only.
+4.1. Quant Percent Terminal is a quantitative research and analysis tool. It helps You draw charts, compute indicators, test strategies on historical data, simulate and run statistics. All Analysis Results are for information, education and research only.
 
 4.2. Nothing in the Software, on quantpercent.com, in the documentation, in notifications (including Telegram messages) or in any support exchange is, or should be taken as:
    a) a recommendation to buy, sell, hold or not hold any share, fund certificate, covered warrant, bond, derivative, cryptocurrency, commodity, currency or other financial instrument;
@@ -115,7 +115,7 @@ ARTICLE 7. MARKET DATA
 
 ARTICLE 8. SIMULATED TRADING, ALERTS AND NOTIFICATIONS
 
-8.1. Price alerts, condition alerts, margin alerts and Telegram notifications work only while QP Terminal is running on Your computer, is connected to the Internet and receives normal data updates. They can arrive late, arrive wrong or not arrive at all.
+8.1. Price alerts, condition alerts, margin alerts and Telegram notifications work only while Quant Percent Terminal is running on Your computer, is connected to the Internet and receives normal data updates. They can arrive late, arrive wrong or not arrive at all.
 
 8.2. You must not rely on the Software's alerts or notifications as the only risk-management tool for a real trading account. Margin ratios and account-safety ratios computed by the Software are estimates from the information You enter; Your broker's figures are the official ones.
 
@@ -138,7 +138,7 @@ ARTICLE 10. LICENCE TO USE
 
 10.1. Provided You comply with these Terms, Quant Percent grants You a limited, non-exclusive, non-transferable, non-sublicensable and revocable right to use the Software for Your personal purposes.
 
-10.2. The Software is licensed, not sold. Quant Percent keeps all ownership, copyright and other intellectual property rights in the Software, the QP Terminal name, the Quant Percent name and logo, the interface, the documentation and the example plugins.
+10.2. The Software is licensed, not sold. Quant Percent keeps all ownership, copyright and other intellectual property rights in the Software, the Quant Percent Terminal name, the Quant Percent name and logo, the interface, the documentation and the example plugins.
 
 ARTICLE 11. LICENCE KEY AND ACTIVATION
 
@@ -267,7 +267,7 @@ ARTICLE 24. MISCELLANEOUS
 
 ARTICLE 25. CONTACT
 
-For questions, support requests, complaints or notices about QP Terminal and these Terms, please contact Quant Percent through the channels published at https://quantpercent.com.
+For questions, support requests, complaints or notices about Quant Percent Terminal and these Terms, please contact Quant Percent through the channels published at https://quantpercent.com.
 
 ---
-By ticking the acceptance box below, You confirm that You have read, understood and agree to all of the Terms of Use, No-Investment-Advice Statement and Disclaimer of QP Terminal.
+By ticking the acceptance box below, You confirm that You have read, understood and agree to all of the Terms of Use, No-Investment-Advice Statement and Disclaimer of Quant Percent Terminal.

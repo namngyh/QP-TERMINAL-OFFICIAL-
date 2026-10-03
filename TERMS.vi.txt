@@ -1,13 +1,13 @@
-﻿QP TERMINAL
+﻿QUANT PERCENT TERMINAL
 ĐIỀU KHOẢN SỬ DỤNG, TUYÊN BỐ KHÔNG KHUYẾN NGHỊ ĐẦU TƯ VÀ MIỄN TRỪ TRÁCH NHIỆM
 
 Nhà phát hành: Quant Percent
 Website: https://quantpercent.com
-Phiên bản điều khoản: 1.0, áp dụng cho QP Terminal 0.1.0
+Phiên bản điều khoản: 1.0, áp dụng cho Quant Percent Terminal 0.1.0
 
 VUI LÒNG ĐỌC KỸ TOÀN BỘ VĂN BẢN NÀY TRƯỚC KHI CÀI ĐẶT.
 
-Bằng việc đánh dấu ô "Tôi chấp thuận các điều khoản" và tiếp tục cài đặt, hoặc bằng việc sử dụng QP Terminal dưới bất kỳ hình thức nào, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý bị ràng buộc bởi toàn bộ các điều khoản dưới đây. Nếu bạn không đồng ý với bất kỳ điều khoản nào, hãy chọn "Hủy bỏ", không cài đặt và không sử dụng phần mềm.
+Bằng việc đánh dấu ô "Tôi chấp thuận các điều khoản" và tiếp tục cài đặt, hoặc bằng việc sử dụng Quant Percent Terminal dưới bất kỳ hình thức nào, bạn xác nhận rằng bạn đã đọc, hiểu và đồng ý bị ràng buộc bởi toàn bộ các điều khoản dưới đây. Nếu bạn không đồng ý với bất kỳ điều khoản nào, hãy chọn "Hủy bỏ", không cài đặt và không sử dụng phần mềm.
 
 
 ================================================================
@@ -18,9 +18,9 @@ PHẦN A. THÔNG TIN CHUNG
 
 Trong văn bản này, các từ ngữ dưới đây được hiểu như sau:
 
-1.1. "Quant Percent", "chúng tôi": đơn vị phát triển và phát hành QP Terminal, thông tin được công bố tại https://quantpercent.com.
+1.1. "Quant Percent", "chúng tôi": đơn vị phát triển và phát hành Quant Percent Terminal, thông tin được công bố tại https://quantpercent.com.
 
-1.2. "QP Terminal", "Phần mềm": ứng dụng máy tính QP Terminal, bao gồm tệp cài đặt, tệp chương trình, giao diện, tài liệu đi kèm, các bản cập nhật, bản sửa lỗi, plugin mẫu và mọi thành phần do Quant Percent cung cấp kèm theo.
+1.2. "Quant Percent Terminal", "Phần mềm": ứng dụng máy tính Quant Percent Terminal, bao gồm tệp cài đặt, tệp chương trình, giao diện, tài liệu đi kèm, các bản cập nhật, bản sửa lỗi, plugin mẫu và mọi thành phần do Quant Percent cung cấp kèm theo.
 
 1.3. "Bạn", "Người dùng": cá nhân cài đặt hoặc sử dụng Phần mềm.
 
@@ -36,7 +36,7 @@ Trong văn bản này, các từ ngữ dưới đây được hiểu như sau:
 
 ĐIỀU 2. PHẠM VI ÁP DỤNG VÀ HIỆU LỰC
 
-2.1. Điều khoản này là thoả thuận ràng buộc giữa Bạn và Quant Percent về việc cài đặt và sử dụng QP Terminal.
+2.1. Điều khoản này là thoả thuận ràng buộc giữa Bạn và Quant Percent về việc cài đặt và sử dụng Quant Percent Terminal.
 
 2.2. Điều khoản có hiệu lực kể từ thời điểm Bạn chấp thuận trong trình cài đặt, hoặc từ lần đầu tiên Bạn sử dụng Phần mềm, tuỳ thời điểm nào đến trước.
 
@@ -55,9 +55,9 @@ Trong văn bản này, các từ ngữ dưới đây được hiểu như sau:
 PHẦN B. TUYÊN BỐ KHÔNG KHUYẾN NGHỊ ĐẦU TƯ VÀ CẢNH BÁO RỦI RO
 ================================================================
 
-ĐIỀU 4. QP TERMINAL KHÔNG PHẢI LỜI KHUYÊN ĐẦU TƯ
+ĐIỀU 4. QUANT PERCENT TERMINAL KHÔNG PHẢI LỜI KHUYÊN ĐẦU TƯ
 
-4.1. QP Terminal là công cụ nghiên cứu và phân tích định lượng. Phần mềm giúp Bạn vẽ biểu đồ, tính chỉ báo, kiểm thử chiến lược trên dữ liệu quá khứ, mô phỏng và thống kê. Mọi Kết quả phân tích chỉ nhằm mục đích thông tin, học tập và nghiên cứu.
+4.1. Quant Percent Terminal là công cụ nghiên cứu và phân tích định lượng. Phần mềm giúp Bạn vẽ biểu đồ, tính chỉ báo, kiểm thử chiến lược trên dữ liệu quá khứ, mô phỏng và thống kê. Mọi Kết quả phân tích chỉ nhằm mục đích thông tin, học tập và nghiên cứu.
 
 4.2. Không một nội dung nào trong Phần mềm, trên website quantpercent.com, trong tài liệu, tin nhắn thông báo (kể cả tin nhắn Telegram) hay trong bất kỳ trao đổi hỗ trợ nào được xem là:
    a) khuyến nghị mua, bán, nắm giữ hay không nắm giữ bất kỳ cổ phiếu, chứng chỉ quỹ, chứng quyền, trái phiếu, hợp đồng phái sinh, tiền mã hoá, hàng hoá, ngoại tệ hay công cụ tài chính nào;
@@ -115,7 +115,7 @@ PHẦN C. DỮ LIỆU, TÍNH NĂNG VÀ MÃ DO NGƯỜI DÙNG VIẾT
 
 ĐIỀU 8. GIAO DỊCH GIẢ LẬP, CẢNH BÁO VÀ THÔNG BÁO
 
-8.1. Cảnh báo giá, cảnh báo theo điều kiện, cảnh báo ký quỹ và thông báo qua Telegram chỉ hoạt động khi QP Terminal đang chạy trên máy của Bạn, có kết nối Internet và dữ liệu cập nhật bình thường. Chúng có thể đến trễ, đến sai hoặc không đến.
+8.1. Cảnh báo giá, cảnh báo theo điều kiện, cảnh báo ký quỹ và thông báo qua Telegram chỉ hoạt động khi Quant Percent Terminal đang chạy trên máy của Bạn, có kết nối Internet và dữ liệu cập nhật bình thường. Chúng có thể đến trễ, đến sai hoặc không đến.
 
 8.2. Bạn không được dựa vào cảnh báo hay thông báo của Phần mềm như công cụ quản trị rủi ro duy nhất cho tài khoản giao dịch thật. Tỷ lệ ký quỹ, tỷ lệ an toàn tài khoản do Phần mềm tính chỉ là ước tính theo thông tin Bạn nhập; số liệu của công ty chứng khoán là số liệu chính thức.
 
@@ -138,7 +138,7 @@ PHẦN D. QUYỀN SỬ DỤNG, KHOÁ BẢN QUYỀN VÀ PHÍ
 
 10.1. Với điều kiện Bạn tuân thủ Điều khoản này, Quant Percent cấp cho Bạn quyền sử dụng Phần mềm có giới hạn, không độc quyền, không chuyển nhượng, không cấp lại, có thể thu hồi, cho mục đích cá nhân của Bạn.
 
-10.2. Phần mềm được cấp quyền sử dụng, không phải được bán. Quant Percent giữ toàn bộ quyền sở hữu, quyền tác giả và các quyền sở hữu trí tuệ khác đối với Phần mềm, tên gọi QP Terminal, tên và biểu trưng Quant Percent, giao diện, tài liệu và các plugin mẫu.
+10.2. Phần mềm được cấp quyền sử dụng, không phải được bán. Quant Percent giữ toàn bộ quyền sở hữu, quyền tác giả và các quyền sở hữu trí tuệ khác đối với Phần mềm, tên gọi Quant Percent Terminal, tên và biểu trưng Quant Percent, giao diện, tài liệu và các plugin mẫu.
 
 ĐIỀU 11. KHOÁ BẢN QUYỀN VÀ KÍCH HOẠT
 
@@ -267,7 +267,7 @@ PHẦN H. ĐIỀU KHOẢN CHUNG
 
 ĐIỀU 25. LIÊN HỆ
 
-Mọi câu hỏi, yêu cầu hỗ trợ, khiếu nại hoặc thông báo liên quan đến QP Terminal và Điều khoản này, vui lòng liên hệ Quant Percent qua các kênh được công bố tại https://quantpercent.com.
+Mọi câu hỏi, yêu cầu hỗ trợ, khiếu nại hoặc thông báo liên quan đến Quant Percent Terminal và Điều khoản này, vui lòng liên hệ Quant Percent qua các kênh được công bố tại https://quantpercent.com.
 
 ---
-Bằng việc đánh dấu ô chấp thuận bên dưới, Bạn xác nhận đã đọc, hiểu và đồng ý với toàn bộ Điều khoản sử dụng, Tuyên bố không khuyến nghị đầu tư và Miễn trừ trách nhiệm của QP Terminal.
+Bằng việc đánh dấu ô chấp thuận bên dưới, Bạn xác nhận đã đọc, hiểu và đồng ý với toàn bộ Điều khoản sử dụng, Tuyên bố không khuyến nghị đầu tư và Miễn trừ trách nhiệm của Quant Percent Terminal.

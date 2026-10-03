@@ -1,4 +1,4 @@
-# QP Terminal
+# Quant Percent Terminal
 
 Phần mềm nghiên cứu chỉ báo và chiến lược giao dịch cho thị trường Việt Nam và tiền mã hoá, chạy trên máy tính Windows của bạn. Nhà phát hành: **Quant Percent** ([quantpercent.com](https://quantpercent.com)).
 
@@ -6,9 +6,9 @@ Phần mềm nghiên cứu chỉ báo và chiến lược giao dịch cho thị 
 
 ## Tải về
 
-**[Tải QP Terminal cho Windows](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/releases/latest/download/QP-Terminal-setup.exe)**
+**[Tải Quant Percent Terminal cho Windows](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/releases/latest/download/QP-Terminal-setup.exe)**
 
-Phiên bản mới nhất: **0.1.6**. [Xem thay đổi](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/releases/tag/v0.1.6).
+Phiên bản mới nhất: **0.1.7**. [Xem thay đổi](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/releases/tag/v0.1.7).
 
 Hoặc vào mục [Releases](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/releases) để xem mọi phiên bản và ghi chú thay đổi.
 
@@ -26,7 +26,7 @@ Hoặc vào mục [Releases](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/rel
 2. Windows có thể hiện "Windows protected your PC", vì bộ cài chưa có chữ ký số. Bấm **More info**, rồi **Run anyway**.
 3. Chọn ngôn ngữ, đọc điều khoản sử dụng, tích ô chấp thuận, rồi bấm **Cài đặt**.
    - Không cần quyền quản trị. App được cài vào `%LOCALAPPDATA%\Programs\QuantPercent`.
-4. Mở **QP Terminal** từ Start Menu.
+4. Mở **Quant Percent Terminal** từ Start Menu.
 
 Để cập nhật: đóng app, tải bộ cài mới từ liên kết trên rồi cài đè. Dữ liệu cá nhân được giữ nguyên. App hiện chưa tự tải hoặc cài bản cập nhật.
 
@@ -61,6 +61,10 @@ phân bổ tài sản tính cả tiền mặt. Nguồn dữ liệu thị trườ
 
 App thử kiểm tra bản quyền qua Internet mỗi 12 giờ. Mỗi lần kiểm tra thành công cho phép dùng offline tối đa **3 ngày tính từ lần kiểm tra đó**, hoặc tới ngày hết hạn bản quyền nếu sớm hơn. Sau thời hạn này, app khoá lại cho tới khi kết nối lại và bấm **Kiểm tra lại**. Nếu bản quyền vẫn hợp lệ thì dùng tiếp, không cần mua mã mới; dữ liệu đã lưu trên máy được giữ nguyên. Dữ liệu thị trường mới và giá trực tiếp cần Internet.
 
+Bản 0.1.7 có tab Quant Portfolio riêng, tự lưu danh mục trên thiết bị và ghi rõ
+đơn vị tiền. Câu chữ dễ hiểu hơn; sửa chú thích chỉ báo, tìm kiếm, tràn ô chỉ số
+và tải lặp khi đổi khung nến. Có nút đăng xuất và 14 cặp Binance Spot USDT.
+
 ## Dữ liệu của bạn
 
 Cài đặt, bố cục, phiên giao dịch giả lập, cảnh báo và plugin bạn viết được lưu ở `%APPDATA%\QuantPercent`, tách khỏi thư mục cài.
@@ -70,11 +74,11 @@ Cài đặt, bố cục, phiên giao dịch giả lập, cảnh báo và plugin 
 
 ## Gỡ cài đặt
 
-Vào Settings, chọn Apps, tìm **QP Terminal**, rồi bấm Uninstall.
+Vào Settings, chọn Apps, tìm **Quant Percent Terminal**, rồi bấm Uninstall.
 
 ## Lưu ý quan trọng
 
-QP Terminal là công cụ nghiên cứu, **không phải lời khuyên đầu tư**. Kết quả backtest và mô phỏng dựa trên dữ liệu quá khứ và các giả định về phí, trượt giá, khớp lệnh; chúng không bảo đảm kết quả trong tương lai. Bản đầy đủ của điều khoản sử dụng: [TERMS.vi.txt](TERMS.vi.txt).
+Quant Percent Terminal là công cụ nghiên cứu, **không phải lời khuyên đầu tư**. Kết quả backtest và mô phỏng dựa trên dữ liệu quá khứ và các giả định về phí, trượt giá, khớp lệnh; chúng không bảo đảm kết quả trong tương lai. Bản đầy đủ của điều khoản sử dụng: [TERMS.vi.txt](TERMS.vi.txt).
 
 ## Hỗ trợ
 
@@ -82,15 +86,15 @@ Mua mã bản quyền, gia hạn, báo lỗi: [quantpercent.com](https://quantpe
 
 ---
 
-# QP Terminal (English)
+# Quant Percent Terminal (English)
 
 A Windows desktop application for researching trading indicators and strategies on Vietnamese markets and crypto. Published by **Quant Percent** ([quantpercent.com](https://quantpercent.com)).
 
 ## Download
 
-**[Download QP Terminal for Windows](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/releases/latest/download/QP-Terminal-setup.exe)**
+**[Download Quant Percent Terminal for Windows](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/releases/latest/download/QP-Terminal-setup.exe)**
 
-Latest version: **0.1.6**. [Release notes](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/releases/tag/v0.1.6).
+Latest version: **0.1.7**. [Release notes](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/releases/tag/v0.1.7).
 
 All versions and release notes are under [Releases](https://github.com/namngyh/QP-TERMINAL-OFFICIAL/releases).
 
@@ -108,11 +112,11 @@ All versions and release notes are under [Releases](https://github.com/namngyh/Q
 2. Windows may show "Windows protected your PC", because the installer is not code-signed yet. Click **More info**, then **Run anyway**.
 3. Choose a language, read and accept the terms, then click **Install**.
    - No administrator rights are needed. The app installs to `%LOCALAPPDATA%\Programs\QuantPercent`.
-4. Start **QP Terminal** from the Start Menu.
+4. Start **Quant Percent Terminal** from the Start Menu.
 
 To update: close the app, download the latest installer using the link above and install over the previous version. Personal data is retained. The app does not yet download or install updates automatically.
 
-If **Smart App Control** is on, Windows blocks unsigned apps outright. There is currently no way to run QP Terminal on such a machine.
+If **Smart App Control** is on, Windows blocks unsigned apps outright. There is currently no way to run Quant Percent Terminal on such a machine.
 
 ## Activate
 
@@ -145,6 +149,11 @@ plots, and allocation accounts for cash. Market data providers are unchanged.
 
 The app attempts an online licence check every 12 hours. Each successful check permits offline use for up to **3 days from that check**, or until the licence expires if sooner. After that the app locks until you are back online and click **Check again**. A valid licence can resume without buying another key; your locally saved data is retained. New market data and live prices require Internet access.
 
+Version 0.1.7 adds a dedicated Quant Portfolio tab, saved local drafts and
+explicit currency units. It clarifies investor guidance, fixes indicator/search
+captions and metric overflow, bounds crypto refresh, adds sign-out controls
+and supports 14 Binance Spot USDT pairs.
+
 ## Your data
 
 Settings, layouts, paper-trading sessions, alerts and your own plugins are stored in `%APPDATA%\QuantPercent`, separate from the install folder.
@@ -154,11 +163,11 @@ Settings, layouts, paper-trading sessions, alerts and your own plugins are store
 
 ## Uninstall
 
-Open Settings, go to Apps, find **QP Terminal**, then click Uninstall.
+Open Settings, go to Apps, find **Quant Percent Terminal**, then click Uninstall.
 
 ## Important
 
-QP Terminal is a research tool, **not investment advice**. Backtests and simulations rely on past data and on assumptions about fees, slippage and order fills; they do not guarantee future results. Full terms of use: [TERMS.en.txt](TERMS.en.txt).
+Quant Percent Terminal is a research tool, **not investment advice**. Backtests and simulations rely on past data and on assumptions about fees, slippage and order fills; they do not guarantee future results. Full terms of use: [TERMS.en.txt](TERMS.en.txt).
 
 ## Support
 
